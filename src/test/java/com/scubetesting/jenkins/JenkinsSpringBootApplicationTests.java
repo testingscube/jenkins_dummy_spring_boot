@@ -14,6 +14,7 @@ class JenkinsSpringBootApplicationTests {
     @Test
     void contextLoads() {
         log.info("AAA Test case executing!");
+        log.info("AAA Test case executing Second Log!");
         assertTrue(true);
     }
 
